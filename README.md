@@ -1,6 +1,9 @@
 # dice
 
 A new Flutter project.
+# Screenshot 
+
+![alt text](https://raw.githubusercontent.com/sp-santosh/dice-roller/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202021-06-07%20at%2020.22.09.png)
 
 ## Getting Started
 
